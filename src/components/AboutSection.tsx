@@ -62,27 +62,6 @@ const AboutSection = () => {
           ))}
         </div>
 
-        {/* Stats Bar */}
-        <div className="mt-20 p-8 md:p-12 bg-primary rounded-2xl">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-            <div>
-              <p className="text-4xl md:text-5xl font-bold text-primary-foreground mb-2">15+</p>
-              <p className="text-primary-foreground/70 font-medium">Anos de Atuação</p>
-            </div>
-            <div>
-              <p className="text-4xl md:text-5xl font-bold text-primary-foreground mb-2">50+</p>
-              <p className="text-primary-foreground/70 font-medium">Municípios Atendidos</p>
-            </div>
-            <div>
-              <p className="text-4xl md:text-5xl font-bold text-primary-foreground mb-2">500+</p>
-              <p className="text-primary-foreground/70 font-medium">Profissionais</p>
-            </div>
-            <div>
-              <p className="text-4xl md:text-5xl font-bold text-primary-foreground mb-2">1M+</p>
-              <p className="text-primary-foreground/70 font-medium">Vidas Impactadas</p>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
