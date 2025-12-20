@@ -59,39 +59,6 @@ const HeroSection = () => {
             </Button>
           </div>
 
-          {/* Trust Indicators */}
-          <div 
-            className="flex flex-wrap gap-8 animate-fade-up"
-            style={{ animationDelay: "0.5s" }}
-          >
-            <div className="flex items-center gap-3">
-              <div className="w-12 h-12 rounded-full bg-secondary/10 flex items-center justify-center">
-                <Users className="w-6 h-6 text-secondary" />
-              </div>
-              <div>
-                <p className="text-2xl font-bold text-foreground">500+</p>
-                <p className="text-sm text-muted-foreground">Profissionais</p>
-              </div>
-            </div>
-            <div className="flex items-center gap-3">
-              <div className="w-12 h-12 rounded-full bg-secondary/10 flex items-center justify-center">
-                <Heart className="w-6 h-6 text-secondary" />
-              </div>
-              <div>
-                <p className="text-2xl font-bold text-foreground">50k+</p>
-                <p className="text-sm text-muted-foreground">Atendimentos</p>
-              </div>
-            </div>
-            <div className="flex items-center gap-3">
-              <div className="w-12 h-12 rounded-full bg-secondary/10 flex items-center justify-center">
-                <Shield className="w-6 h-6 text-secondary" />
-              </div>
-              <div>
-                <p className="text-2xl font-bold text-foreground">15+</p>
-                <p className="text-sm text-muted-foreground">Anos de Experiência</p>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
