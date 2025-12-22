@@ -23,7 +23,7 @@ const Header = () => {
             <img 
               src={logo} 
               alt="Hayuta Saúde - Gestão em Saúde" 
-              className="h-16 w-auto"
+              className="h-32 w-auto"
             />
           </a>
 
