@@ -25,7 +25,7 @@ const ContactSection = () => {
     {
       icon: MapPin,
       title: "Endereço",
-      info: "São Paulo, SP - Brasil",
+      info: "Curitiba, PR - Brasil",
     },
     {
       icon: Phone,
