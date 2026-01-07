@@ -34,7 +34,7 @@ const Footer = () => {
             <img 
               src={logo} 
               alt="Hayuta Saúde" 
-              className="h-12 w-auto mb-6 brightness-0 invert"
+              className="h-32 w-auto mb-6 brightness-0 invert"
             />
             <p className="text-primary-foreground/70 leading-relaxed mb-6">
               Gestão de excelência em saúde, construindo parcerias sólidas com 
