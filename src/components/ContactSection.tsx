@@ -28,11 +28,6 @@ const ContactSection = () => {
       info: "Curitiba, PR - Brasil",
     },
     {
-      icon: Phone,
-      title: "Telefone",
-      info: "(11) 9999-9999",
-    },
-    {
       icon: Mail,
       title: "E-mail",
       info: "contato@hayutasaude.com.br",
