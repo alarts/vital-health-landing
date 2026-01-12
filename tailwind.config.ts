@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        serif: ['Libre Baskerville', 'Georgia', 'serif'],
-        sans: ['Source Sans 3', 'system-ui', 'sans-serif'],
+        serif: ['"Libre Baskerville"', "Georgia", '"Times New Roman"', "serif"],
+        sans: ['"Source Sans 3"', "system-ui", "-apple-system", "Segoe UI", "Roboto", "Arial", "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
